@@ -22,7 +22,7 @@ The dataset contains two sales-related tables with fields such as:
 - Units Sold
 - Discounts & Pricing Fields
 ## Dataset Used
-<a href=https://github.com/GeharaRathnayake/Sales-Report-Dashboard/blob/main/1-Sales%20Data%20in%202%20tables.xlsx>Sales Data In 2 Tables</a>
+<a href=https://github.com/GeharaRathnayake/Sales-Report-Dashboard/blob/main/2-Sales%20Sample%20data.xlsx>Sales Sample Data</a>
 
 ## Business Questions Answered
 1. Which countries generate the highest total sales and gross margin?
