@@ -58,6 +58,8 @@ The dataset contains two sales-related tables with fields such as:
 - Bar Chart: Total Sales by Segment
 - Column Chart: Sales & Margin% by Country
 - Interactive Filters: Segment, Product, Year
+## Dashboard
+<img width="1166" height="652" alt="sales report dashboard" src="https://github.com/user-attachments/assets/fc5ca674-357b-4ffc-a7a4-fd23b728c399" />
 
 ## Key Insights
 - Government segment produced the highest sales
